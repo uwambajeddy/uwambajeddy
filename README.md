@@ -1,10 +1,10 @@
 ### hey there 
-<a href="https://www.instagram.com/eddy.kamoso/">
-  <img align="left" alt="Eddy's Instagram" width="22px" src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/linkedin-circle.png" />
+<a href="https://www.linkedin.com/in/eddy-uwambaje/">
+  <img align="left" alt="Eddy's Linkedin" width="22px" src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/linkedin-circle.png" />
 </a>
-<!--<a href="https://www.linkedin.com/in//">
-  <img align="left" alt="Eddy's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>-->
+<a href="https://www.instagram.com/eddy.kamoso/">
+  <img align="left" alt="Eddy's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=uwambajeddy.uwambajeddy)
 
