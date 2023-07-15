@@ -1,9 +1,6 @@
 ### hey there 
 <a href="https://www.instagram.com/eddy.kamoso/">
-  <img align="left" alt="Eddy's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://twitter.com/eddie_leftie">
-  <img align="left" alt="Eddy Uwambaje | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Eddy's Instagram" width="22px" src="https://raw.githubusercontent.com/shahbajjamil/Social-Meadia-Icons/master/Icons-logos/linkedin-circle.png" />
 </a>
 <!--<a href="https://www.linkedin.com/in//">
   <img align="left" alt="Eddy's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
